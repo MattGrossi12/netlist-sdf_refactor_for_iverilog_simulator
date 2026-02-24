@@ -156,7 +156,3 @@ top_refactor.sdf
 ```
 
 ---
-
-## Licença
-
-Defina conforme sua necessidade (por exemplo, MIT, BSD, Proprietária, etc.).
